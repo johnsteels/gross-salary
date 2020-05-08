@@ -1,0 +1,6 @@
+//program to calculate gross salary
+include <stdio.h>
+include <conio.h>
+void main()
+{
+}
